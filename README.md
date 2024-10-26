@@ -26,4 +26,13 @@ Saya adalah seorang Mahasiswa Universitas Kristen Immanuel dengan Jurusan Teknol
 - Email: laserikus@gmail.com
 - no.telp: 082123755489
 
+## Informasi pribadi
+- Agama : Katolik
+- alamat asli: Nias Utara
+- tanggal lahir : 26 Juni 2005
+- Hobi : Bulutangkis
+- Cita-cita : Guru
+- Status : jomblo
+
+
 Terima kasih telah mengunjungi profil saya! 🚀
