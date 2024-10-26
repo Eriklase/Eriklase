@@ -10,20 +10,20 @@
 Eriklase/Eriklase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Hai, saya [Nama Anda] 👋
+# Hai, saya Friderikus lase
 
-Saya adalah seorang [profesi/posisi] dengan minat di bidang [bidang yang diminati, misalnya pengembangan perangkat lunak, data science, dll.]. 
+Saya adalah seorang Mahasiswa Universitas Kristen Immanuel dengan Jurusan Teknologi dan informatika, dengan minat dalam pengembangan perangkat lunak, data science.
 
 ## 🔧 Teknologi yang Saya Kuasai
-- Bahasa Pemrograman: [sebutkan bahasa pemrograman, misalnya JavaScript, Python, dll.]
-- Framework: [sebutkan framework yang dikuasai, misalnya React, Django, dll.]
-- Database: [sebutkan database, misalnya MySQL, MongoDB, dll.]
+- Bahasa Pemrograman: Java, JavaScript, Python.
+- Framework: React, Django.
+- Database:  MySQL, MongoDB.
 
 ## 🌱 Sedang Belajar
-- [Sebutkan teknologi atau bahasa baru yang sedang dipelajari]
+- CSS, PHP
 
 ## 📫 Hubungi Saya
-- Email: [email@example.com]
-- LinkedIn: [tautan ke profil LinkedIn]
+- Email: laserikus@gmail.com
+- no.telp: 082123755489
 
 Terima kasih telah mengunjungi profil saya! 🚀
