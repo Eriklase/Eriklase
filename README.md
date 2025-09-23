@@ -1,25 +1,14 @@
 Hai, saya Friderikus lase
 Saya adalah seorang Mahasiswa Universitas Kristen Immanuel dengan Jurusan Teknologi dan informatika, dengan minat dalam pengembangan perangkat lunak, data science.
 
-## 🔧 Teknologi yang Saya Kuasai
-- Bahasa Pemrograman: Java, JavaScript, Python.
-- Framework: React, Django.
-- Database:  MySQL, MongoDB.
+## 🔧 Tertarik pada : 
+- Bahasa Pemrograman: Java, JavaScript, Python dan PHP
 
 ## 🌱 Sedang Belajar
-- PHP,Python and Laravel
+- PHP framework laravel,Python dan java
 
 ## 📫 Hubungi Saya
 - Email: laserikus@gmail.com
 - no.telp: 082123755489
-
-## Informasi pribadi
-- Agama : Katolik
-- alamat asli: Nias Utara
-- tanggal lahir : 26 Juni 2005
-- Hobi : Bulutangkis
-- Cita-cita : Guru
-- Status : jomblo
-
 
 Terima kasih telah mengunjungi profil saya! 🚀
